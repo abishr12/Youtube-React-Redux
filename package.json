@@ -26,7 +26,7 @@
     "jsdom": "^11.6.2",
     "mocha": "^5.0.0",
     "react-addons-test-utils": "^15.6.2",
-    "webpack": "^3.11.0",
+
     "webpack-dev-server": "^2.11.1"
   },
   "dependencies": {
@@ -37,6 +37,7 @@
     "react-redux": "5.0.6",
     "react-router": "^4.2.0",
     "redux": "^3.0.4",
-    "youtube-api-search": "0.0.5"
+    "youtube-api-search": "0.0.5",
+    "webpack": "^3.11.0"
   }
 }
